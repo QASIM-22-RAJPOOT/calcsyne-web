@@ -1,0 +1,9 @@
+{
+  "name": "CalcSyne - Free Online Calculators",
+  "short_name": "CalcSyne",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#16a34a",
+  "icons": []
+}
