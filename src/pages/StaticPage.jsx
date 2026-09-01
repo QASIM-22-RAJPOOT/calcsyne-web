@@ -7,7 +7,7 @@ const pages = {
   },
   contact: {
     eyebrow:'Contact', title:'Get in touch.',
-    body:<><p>Questions, corrections, partnership inquiries, or calculator suggestions are welcome.</p><div className="contact-card"><span>Email</span><strong>{siteConfig.supportEmail}</strong><a className="primary-button" href={`mailto:${siteConfig.supportEmail}`}>Send an email</a></div><h2>Report a calculator issue</h2><p>If you find an unexpected result, include the calculator name, the values you entered, the result you expected, and the result you received. That information makes it easier to reproduce and review the issue.</p><p className="calc-note">Before launch, replace the placeholder email in <code>src/config/site.js</code> with an address on your real domain.</p></>
+    body:<><p>Questions, corrections, partnership inquiries, or calculator suggestions are welcome.</p><div className="contact-card"><span>Email</span><strong>{siteConfig.supportEmail}</strong><a className="primary-button" href={`mailto:${siteConfig.supportEmail}`}>Send an email</a></div><h2>Report a calculator issue</h2><p>If you find an unexpected result, include the calculator name, the values you entered, the result you expected, and the result you received. That information makes it easier to reproduce and review the issue.</p><p className="calc-note"> <code>src/config/site.js</code> with an address on your real domain.</p></>
   },
   privacy: {
     eyebrow:'Legal', title:'Privacy Policy',
