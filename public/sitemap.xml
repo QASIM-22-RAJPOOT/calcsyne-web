@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/percentage/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/percentage/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/age/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/age/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/bmi/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/bmi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/discount/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/discount/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/loan/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/loan/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/compound-interest/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/compound-interest/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/gpa/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/gpa/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/grade/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/grade/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/date-difference/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/date-difference/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/tip/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/tip/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/unit-converter/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/unit-converter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/calculators/scientific/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/calculators/scientific/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/privacy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/terms/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/terms/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/disclaimer/</loc>
+    <loc>https://calc-synee-qx5r.vercel.app/disclaimer/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
